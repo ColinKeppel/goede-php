@@ -5,6 +5,14 @@
 	<title>Document</title>
 </head>
 <body>
+
+
+<?php
+
+echo "cloin is gaaay";
+
+
+?>
 	
 </body>
 </html>
