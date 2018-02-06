@@ -1,0 +1,21 @@
+p.momentDag {
+    font-size:  50px;
+    color: white;
+}
+
+p.HetIsNu {
+    font-size:  40px;
+    color: white;
+}
+
+body.HetIsNu {
+    font-size:  50px;
+    color: white;
+}
+
+body {
+    width: 300px;
+    margin: auto;
+    margin-top: 400px;
+    text-align:  center;
+}
